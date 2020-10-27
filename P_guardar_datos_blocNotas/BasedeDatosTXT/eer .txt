@@ -1,0 +1,3 @@
+NOMBRE ------> eer
+APELLIDOS ------> erg
+TELEFONO ------> er
